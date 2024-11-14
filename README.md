@@ -15,6 +15,10 @@ Login credentials:
 username: john@mail.com
 password: changeme
 
+## Download apk here
+
+- [Apk](https://drive.google.com/file/d/1vfWuYaB-fjG44E7bMFLoRld1JpyGtRl8/view?usp=sharing)
+
 
 
 ## Folder Structure
