@@ -55,7 +55,7 @@ This layer handles the user interface components, including widgets, screens, an
 
 - `page`: Contains the main screens of the application.
 - `widgets`: Contains reusable widgets used across screens.
-- `blocs`: Implements the BLoC pattern for state management.
+- `manager`: Implements the RiverPod pattern for state management.
 
 ### 2. Domain Layer
 
