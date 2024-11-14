@@ -40,7 +40,7 @@ This application uses a feature driven folder structure to separate related func
 - │     │     ├── repositories(abstract)
 - │     │     └── use_cases
 - │     └── presentation
-- │     │     ├── blocs
+- │     │     ├── manager(state)
 - │     │     ├── pages
 - │     │     └── widgets
 - │     │
